@@ -1,6 +1,4 @@
-# Admin Dashboard API - Laravel
 
-API Backend for Admin Dashboard with Authentication, Authorization (RBAC), and CRUD Operations features.
 
 ## Tech Stack
 
